@@ -1,5 +1,5 @@
 import React from 'react';
-import { RadarChart, Radar, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Tooltip, BarChart, Bar, XAxis, YAxis, CartesianGrid, Legend } from 'recharts';
+import { RadarChart, Radar, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Tooltip, XAxis, YAxis, CartesianGrid } from 'recharts';
 import { ScatterChart, Scatter, Label, ResponsiveContainer, ReferenceArea, ReferenceDot } from 'recharts';
 import ReactSpeedometer from "react-d3-speedometer";
 import './styles/sage.css';
@@ -26,16 +26,7 @@ const PsychProfileDashboard = ({ profileData, psychologicalProfile }) => {
       )
     : [];
 
-  const preferredChannelsData = psychologicalProfile["Communication Style"]?.["Preferred Channels"]
-    ? Object.entries(psychologicalProfile["Communication Style"]["Preferred Channels"]).map(([channel, value]) => ({
-        channel,
-        value: parseFloat(value)
-      }))
-    : [];
-
   const toneValue = parseFloat(psychologicalProfile["Communication Style"]?.["Tone and Language"]?.Informal) || 0;
-
-  const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042', '#8884D8', '#82ca9d'];
 
   const mbtiTypes = ['ISTJ', 'ISFJ', 'INFJ', 'INTJ', 'ISTP', 'ISFP', 'INFP', 'INTP', 'ESTP', 'ESFP', 'ENFP', 'ENTP', 'ESTJ', 'ESFJ', 'ENFJ', 'ENTJ'];
   const actualMbtiType = psychologicalProfile["Personality Traits"]?.["MBTI Type"];
