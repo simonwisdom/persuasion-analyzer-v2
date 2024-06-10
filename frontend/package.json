@@ -28,7 +28,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "postinstall": "node-prune"
-    },
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -48,6 +48,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "node-prune": "^1.0.2"
   }
 }
