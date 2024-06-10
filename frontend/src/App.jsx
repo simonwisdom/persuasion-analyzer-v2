@@ -33,38 +33,44 @@ const App = () => {
     setShowPsychProfile(false);
     setShowReactionsPlan(false);
     setShowFinalButtons(false);
-
+  
     try {
       console.log(`Fetching profile data for: ${searchTerm}`);
-      const response = await axios.post('http://127.0.0.1:5000/fetch-profile', { profileUrl: searchTerm });
+      const response = await axios.post(`/api/fetch-profile`, { profileUrl: searchTerm });
       const fetchedProfileData = response.data;
       setProfileData(fetchedProfileData);
       console.log('Profile data fetched:', fetchedProfileData);
-
+  
+      if (!fetchedProfileData.demographic_profile) {
+        setError('Demographic profile data is missing. Cannot continue analysis. Try a different profile link.');
+        setLoading(false);
+        return;
+      }
+  
       const percentComplete = fetchedProfileData.demographic_profile['Percent Complete'];
       console.log('% complete:', percentComplete);
-
+  
       if (percentComplete < 50) {
         setError('Profile data is less than 50% complete. Cannot continue analysis. Try a different profile link.');
         setLoading(false);
         return;
       }
-
+  
       console.log('Analyzing profile data...');
-      const analysisResponse = await axios.post('/analyze-profile', {
+      const analysisResponse = await axios.post(`/api/analyze-profile`, {
         profileData: fetchedProfileData,
         profileUrl: searchTerm
       });
       const { demographic_profile, psychological_profile, persuasion_plan } = analysisResponse.data;
-
+  
       console.log('Demographic profile:', demographic_profile);
       console.log('Psychological profile:', psychological_profile);
       console.log('Persuasion plan:', persuasion_plan);
-
+  
       setPsychologicalProfile(psychological_profile);
       setPersuasionPlan(persuasion_plan);
       setError('');
-
+  
       console.log('Profile analysis complete.');
     } catch (error) {
       console.error('Error fetching or analyzing profile:', error);
@@ -73,6 +79,7 @@ const App = () => {
       setLoading(false);
     }
   };
+  
 
   return (
     <div className="flex-container">
@@ -82,7 +89,7 @@ const App = () => {
         {error && <div className="error-message text-red-500 my-4">{error}</div>}
         {!loading && profileData && profileData.demographic_profile && profileData.demographic_profile['Percent Complete'] >= 50 && (
           <div className="flex justify-center">
-            {!showPsychProfile &&
+            {!showPsychProfile && 
               <button className="px-4 py-2 mx-2 rounded-md bg-purple-500 text-white" onClick={() => setShowPsychProfile(true)}>
                 Generate Psychometric Profile
               </button>
