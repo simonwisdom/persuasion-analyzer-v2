@@ -1,0 +1,40 @@
+@import 'inter.css';
+@import 'sage.css';
+
+.display-raw-data {
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-around;
+  }
+  
+  .profile-card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px 0;
+    flex: 1 1 calc(45% - 10px); /* Adjust width */
+    box-sizing: border-box;
+    font-size: 14px; /* Smaller font size */
+  }
+  
+  .profile-card h3 {
+    margin: 0 0 5px 0; /* Tighter spacing */
+    font-size: 16px; /* Smaller font size */
+  }
+  
+  .profile-card ul {
+    padding-left: 20px; /* Adjust padding for lists */
+    margin: 0;
+  }
+  
+  .profile-card ul li {
+    margin: 0 0 5px 0; /* Tighter spacing between list items */
+  }
+  
+  .profile-card p {
+    margin: 5px 0; /* Tighter spacing for paragraphs */
+  }
+  

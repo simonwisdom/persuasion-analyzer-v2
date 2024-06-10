@@ -1,0 +1,122 @@
+@import 'inter.css';
+@import 'sage.css';
+
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+input[type="text"] {
+  padding: 10px;
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+button {
+  display: block;
+  padding: 10px;
+  background-color: #0073b1;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background-color: #005582;
+}
+
+.profile-data,
+.claude-response {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.profile-data h2,
+.claude-response h2 {
+  color: #0073b1;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  overflow-x: auto;
+}
+
+pre code {
+  font-family: Consolas, "Courier New", monospace;
+  font-size: 14px;
+  color: #333;
+}
+
+.error-message {
+  color: red;
+  margin: 20px 0;
+}
+
+.button-group {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.button-group button {
+  padding: 10px 20px;
+  margin: 10px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.button-group button.selected {
+  background-color: #007BFF;
+  color: #FFF;
+}
+
+.button-group button.unselected {
+  background-color: #CCC;
+  color: #000;
+}
+
+.profile-section {
+  margin: 20px 0;
+  text-align: left;
+}
+
+.animated {
+  animation: fadeIn 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.courier-font {
+  font-family: 'Courier New', Courier, monospace;
+}
