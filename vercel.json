@@ -25,5 +25,11 @@
         "src": "/(.*)",
         "dest": "/frontend/build/$1"
       }
-    ]
+    ],
+    "functions": {
+      "api/**": {
+        "excludeFiles": "{.next,*.cache,node_modules,public,app}/**"
+      }
+    }
   }
+  
