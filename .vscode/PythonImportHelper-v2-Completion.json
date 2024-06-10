@@ -1,0 +1,690 @@
+[
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "json_util",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "json_util",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "get_platform",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_profile_url",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "predict",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "collection",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "predict",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_platform",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_profile_url",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_profile_from_api",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_profile_completeness",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "collection",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "profile_prompt_template",
+        "importPath": "prompts",
+        "description": "prompts",
+        "isExtraImport": true,
+        "detail": "prompts",
+        "documentation": {}
+    },
+    {
+        "label": "reaction_prompt_template",
+        "importPath": "prompts",
+        "description": "prompts",
+        "isExtraImport": true,
+        "detail": "prompts",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_profile_endpoint",
+        "importPath": "fetch_profile",
+        "description": "fetch_profile",
+        "isExtraImport": true,
+        "detail": "fetch_profile",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_profile_endpoint",
+        "importPath": "analyze_profile",
+        "description": "analyze_profile",
+        "isExtraImport": true,
+        "detail": "analyze_profile",
+        "documentation": {}
+    },
+    {
+        "label": "chatbot_endpoint",
+        "importPath": "chatbot",
+        "description": "chatbot",
+        "isExtraImport": true,
+        "detail": "chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "ServerApi",
+        "importPath": "pymongo.server_api",
+        "description": "pymongo.server_api",
+        "isExtraImport": true,
+        "detail": "pymongo.server_api",
+        "documentation": {}
+    },
+    {
+        "label": "urlparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "Anthropic",
+        "importPath": "anthropic",
+        "description": "anthropic",
+        "isExtraImport": true,
+        "detail": "anthropic",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "importPath": "flatted",
+        "description": "flatted",
+        "isExtraImport": true,
+        "detail": "flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "importPath": "flatted",
+        "description": "flatted",
+        "isExtraImport": true,
+        "detail": "flatted",
+        "documentation": {}
+    },
+    {
+        "label": "save_data_to_file",
+        "kind": 2,
+        "importPath": "backend.analyze_profile",
+        "description": "backend.analyze_profile",
+        "peekOfCode": "def save_data_to_file(filename, data):\n    with open(filename, 'a') as f:\n        f.write(f\"{datetime.datetime.now()}\\n\")\n        f.write(f\"{json.dumps(data, indent=4)}\\n\")\ndef analyze_profile_endpoint():\n    demographic_profile = request.json.get('profileData')\n    profile_url = request.json.get('profileUrl')\n    platform, _ = get_platform(profile_url)\n    normalized_profile_url = normalize_profile_url(profile_url, platform)\n    # Check if the profile analysis already exists in the MongoDB collection",
+        "detail": "backend.analyze_profile",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_profile_endpoint",
+        "kind": 2,
+        "importPath": "backend.analyze_profile",
+        "description": "backend.analyze_profile",
+        "peekOfCode": "def analyze_profile_endpoint():\n    demographic_profile = request.json.get('profileData')\n    profile_url = request.json.get('profileUrl')\n    platform, _ = get_platform(profile_url)\n    normalized_profile_url = normalize_profile_url(profile_url, platform)\n    # Check if the profile analysis already exists in the MongoDB collection\n    existing_profile = collection.find_one({'profile_url': normalized_profile_url})\n    if existing_profile and 'psychological_profile' in existing_profile:\n        logging.debug(f\"Profile analysis found in MongoDB for profile URL: {normalized_profile_url}\")\n        return jsonify(json.loads(json_util.dumps(existing_profile)))",
+        "detail": "backend.analyze_profile",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_profile",
+        "kind": 2,
+        "importPath": "backend.backend",
+        "description": "backend.backend",
+        "peekOfCode": "def fetch_profile():\n    return fetch_profile_endpoint()\n@app.route('/analyze-profile', methods=['POST'])\ndef analyze_profile():\n    return analyze_profile_endpoint()\n@app.route('/api/messages', methods=['POST'])\ndef messages_endpoint():\n    return chatbot_endpoint()\nif __name__ == '__main__':\n    app.run(debug=True)",
+        "detail": "backend.backend",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_profile",
+        "kind": 2,
+        "importPath": "backend.backend",
+        "description": "backend.backend",
+        "peekOfCode": "def analyze_profile():\n    return analyze_profile_endpoint()\n@app.route('/api/messages', methods=['POST'])\ndef messages_endpoint():\n    return chatbot_endpoint()\nif __name__ == '__main__':\n    app.run(debug=True)",
+        "detail": "backend.backend",
+        "documentation": {}
+    },
+    {
+        "label": "messages_endpoint",
+        "kind": 2,
+        "importPath": "backend.backend",
+        "description": "backend.backend",
+        "peekOfCode": "def messages_endpoint():\n    return chatbot_endpoint()\nif __name__ == '__main__':\n    app.run(debug=True)",
+        "detail": "backend.backend",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.backend",
+        "description": "backend.backend",
+        "peekOfCode": "app = Flask(__name__)\n# Configure logging\nlogging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')\n@app.route('/fetch-profile', methods=['POST'])\ndef fetch_profile():\n    return fetch_profile_endpoint()\n@app.route('/analyze-profile', methods=['POST'])\ndef analyze_profile():\n    return analyze_profile_endpoint()\n@app.route('/api/messages', methods=['POST'])",
+        "detail": "backend.backend",
+        "documentation": {}
+    },
+    {
+        "label": "chatbot_endpoint",
+        "kind": 2,
+        "importPath": "backend.chatbot",
+        "description": "backend.chatbot",
+        "peekOfCode": "def chatbot_endpoint():\n    logging.info('Endpoint called')\n    try:\n        message = request.json['message']\n        persuasion_plans = request.json['persuasionPlans']\n        psychological_profile = request.json['psychologicalProfile']\n        role = request.json['role']\n        messages = request.json['messages'] \n        logging.info('Received message from frontend: %s', message)\n        logging.info('Persuasion Plans: %s', persuasion_plans)",
+        "detail": "backend.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.chatbot",
+        "description": "backend.chatbot",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/api/messages', methods=['POST'])\ndef chatbot_endpoint():\n    logging.info('Endpoint called')\n    try:\n        message = request.json['message']\n        persuasion_plans = request.json['persuasionPlans']\n        psychological_profile = request.json['psychologicalProfile']\n        role = request.json['role']\n        messages = request.json['messages'] ",
+        "detail": "backend.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_profile_endpoint",
+        "kind": 2,
+        "importPath": "backend.fetch_profile",
+        "description": "backend.fetch_profile",
+        "peekOfCode": "def fetch_profile_endpoint():\n    profile_url = request.json['profileUrl']\n    platform, platform_param = get_platform(profile_url)\n    if not platform:\n        return jsonify({\"error\": \"Unsupported profile URL\"}), 400\n    normalized_profile_url = normalize_profile_url(profile_url, platform)\n    # Check if the profile already exists in the MongoDB collection\n    existing_profile = collection.find_one({'profile_url': normalized_profile_url})\n    if existing_profile:\n        logging.debug(f\"Profile found in MongoDB for URL: {normalized_profile_url}\")",
+        "detail": "backend.fetch_profile",
+        "documentation": {}
+    },
+    {
+        "label": "profile_prompt_template",
+        "kind": 5,
+        "importPath": "backend.prompts",
+        "description": "backend.prompts",
+        "peekOfCode": "profile_prompt_template = \"\"\"You are an advanced AI assistant with the ability to learn and adapt. Your purpose is to analyze user profile data to build comprehensive psychological profiles. \nGiven the LinkedIn data provided, create a structured profile focusing on demographics, personality traits, values, motivations, communication style, and interests. \n{demographic_profile}\nBased on this data, create a structured psychological profile using the following template. \nThink to yourself internally, and reason step by step how you would arrive at the answers. \nThen, provide the inputs that would be required for creating charts. \nRETURN THE OUTPUT AS A CORRECTLY FORMATTED JSON AND NOTHING ELSE IN THE RESPONSE.\n{{{{\n  \"psychological_profile\": {{\n    \"Demographics\": {{",
+        "detail": "backend.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "reaction_prompt_template",
+        "kind": 5,
+        "importPath": "backend.prompts",
+        "description": "backend.prompts",
+        "peekOfCode": "reaction_prompt_template = \"\"\"Given the following psychological profile and demographic profile:\nPsychological Profile:\n{psychological_profile}\nYou are an AI psychology researcher.\nThink aloud about your reactions to the following profile, from the point of view of particular areas that might be useful for persuasion.\nDo not summarize the input content, immediately react based on specific details of the profile.\nThen list out a plan for a series of messages that could be effective to write a compelling message to them. Estimate probability of success from 0-1.\nThe profile is based on data from LinkedIn, but think beyond a professional context, using information such as their location, marital status, age, gender, hobbies, etc.\nBe specific and provide examples, but be very concise. \nUse the following strategies in your plan:",
+        "detail": "backend.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "predict",
+        "kind": 2,
+        "importPath": "backend.utils",
+        "description": "backend.utils",
+        "peekOfCode": "def predict(prompt, max_tokens=1024):\n    message = anthropic_client.messages.create(\n        max_tokens=max_tokens,\n        messages=[\n            {\n                \"role\": \"user\",\n                \"content\": prompt,\n            }\n        ],\n        model=\"claude-3-haiku-20240307\",",
+        "detail": "backend.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_platform",
+        "kind": 2,
+        "importPath": "backend.utils",
+        "description": "backend.utils",
+        "peekOfCode": "def get_platform(profile_url):\n    domain = urlparse(profile_url).netloc\n    if 'linkedin' in domain:\n        return 'linkedin', 'linkedin_profile_url'\n    elif 'twitter' in domain or 'x.com' in domain:\n        return 'twitter', 'twitter_profile_url'\n    elif 'facebook' in domain:\n        return 'facebook', 'facebook_profile_url'\n    else:\n        return None, None",
+        "detail": "backend.utils",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_profile_url",
+        "kind": 2,
+        "importPath": "backend.utils",
+        "description": "backend.utils",
+        "peekOfCode": "def normalize_profile_url(profile_url, platform):\n    if platform == 'twitter':\n        return profile_url.replace('twitter.com', 'x.com')\n    return profile_url.rstrip('/')\ndef fetch_profile_from_api(profile_url, platform_param):\n    headers = {'Authorization': f'Bearer {proxycurl_api_key}'}\n    api_endpoint = 'https://nubela.co/proxycurl/api/v2/linkedin'\n    params = {platform_param: profile_url, 'fallback_to_cache': 'on-error'}\n    try:\n        response = requests.get(api_endpoint, params=params, headers=headers)",
+        "detail": "backend.utils",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_profile_from_api",
+        "kind": 2,
+        "importPath": "backend.utils",
+        "description": "backend.utils",
+        "peekOfCode": "def fetch_profile_from_api(profile_url, platform_param):\n    headers = {'Authorization': f'Bearer {proxycurl_api_key}'}\n    api_endpoint = 'https://nubela.co/proxycurl/api/v2/linkedin'\n    params = {platform_param: profile_url, 'fallback_to_cache': 'on-error'}\n    try:\n        response = requests.get(api_endpoint, params=params, headers=headers)\n        response.raise_for_status()\n        return response.json()\n    except requests.exceptions.RequestException as e:\n        logging.error(f\"Error fetching profile from Proxycurl API: {e}\")",
+        "detail": "backend.utils",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_profile_completeness",
+        "kind": 2,
+        "importPath": "backend.utils",
+        "description": "backend.utils",
+        "peekOfCode": "def calculate_profile_completeness(demographic_profile):\n    total_fields = len(demographic_profile)\n    null_count = sum(1 for value in demographic_profile.values() if value is None)\n    percent_complete = ((total_fields - null_count) / total_fields) * 100\n    return null_count, total_fields, percent_complete",
+        "detail": "backend.utils",
+        "documentation": {}
+    },
+    {
+        "label": "proxycurl_api_key",
+        "kind": 5,
+        "importPath": "backend.utils",
+        "description": "backend.utils",
+        "peekOfCode": "proxycurl_api_key = os.getenv('PROXYCURL_API_KEY')\nanthropic_client = Anthropic(api_key=os.environ.get(\"ANTHROPIC_API_KEY\"))\ndef predict(prompt, max_tokens=1024):\n    message = anthropic_client.messages.create(\n        max_tokens=max_tokens,\n        messages=[\n            {\n                \"role\": \"user\",\n                \"content\": prompt,\n            }",
+        "detail": "backend.utils",
+        "documentation": {}
+    },
+    {
+        "label": "anthropic_client",
+        "kind": 5,
+        "importPath": "backend.utils",
+        "description": "backend.utils",
+        "peekOfCode": "anthropic_client = Anthropic(api_key=os.environ.get(\"ANTHROPIC_API_KEY\"))\ndef predict(prompt, max_tokens=1024):\n    message = anthropic_client.messages.create(\n        max_tokens=max_tokens,\n        messages=[\n            {\n                \"role\": \"user\",\n                \"content\": prompt,\n            }\n        ],",
+        "detail": "backend.utils",
+        "documentation": {}
+    },
+    {
+        "label": "proxycurl_api_key",
+        "kind": 5,
+        "importPath": "backend.utils",
+        "description": "backend.utils",
+        "peekOfCode": "proxycurl_api_key = os.getenv('PROXYCURL_API_KEY')\nmongodb_uri = os.getenv('MONGODB_URI')\n# Connect to MongoDB\nclient = MongoClient(mongodb_uri, server_api=ServerApi('1'))\ndb = client[\"persuasion\"]\ncollection = db[\"linkedin-profile\"]\n# fs = gridfs.GridFS(db)\n# def fetch_and_save_profile_picture(profile_url):\n#     headers = {'Authorization': f'Bearer {proxycurl_api_key}'}\n#     api_endpoint = 'https://nubela.co/proxycurl/api/linkedin/person/profile-picture'",
+        "detail": "backend.utils",
+        "documentation": {}
+    },
+    {
+        "label": "mongodb_uri",
+        "kind": 5,
+        "importPath": "backend.utils",
+        "description": "backend.utils",
+        "peekOfCode": "mongodb_uri = os.getenv('MONGODB_URI')\n# Connect to MongoDB\nclient = MongoClient(mongodb_uri, server_api=ServerApi('1'))\ndb = client[\"persuasion\"]\ncollection = db[\"linkedin-profile\"]\n# fs = gridfs.GridFS(db)\n# def fetch_and_save_profile_picture(profile_url):\n#     headers = {'Authorization': f'Bearer {proxycurl_api_key}'}\n#     api_endpoint = 'https://nubela.co/proxycurl/api/linkedin/person/profile-picture'\n#     params = {'linkedin_person_profile_url': profile_url}",
+        "detail": "backend.utils",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "backend.utils",
+        "description": "backend.utils",
+        "peekOfCode": "client = MongoClient(mongodb_uri, server_api=ServerApi('1'))\ndb = client[\"persuasion\"]\ncollection = db[\"linkedin-profile\"]\n# fs = gridfs.GridFS(db)\n# def fetch_and_save_profile_picture(profile_url):\n#     headers = {'Authorization': f'Bearer {proxycurl_api_key}'}\n#     api_endpoint = 'https://nubela.co/proxycurl/api/linkedin/person/profile-picture'\n#     params = {'linkedin_person_profile_url': profile_url}\n#     try:\n#         response = requests.get(api_endpoint, params=params, headers=headers)",
+        "detail": "backend.utils",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "backend.utils",
+        "description": "backend.utils",
+        "peekOfCode": "db = client[\"persuasion\"]\ncollection = db[\"linkedin-profile\"]\n# fs = gridfs.GridFS(db)\n# def fetch_and_save_profile_picture(profile_url):\n#     headers = {'Authorization': f'Bearer {proxycurl_api_key}'}\n#     api_endpoint = 'https://nubela.co/proxycurl/api/linkedin/person/profile-picture'\n#     params = {'linkedin_person_profile_url': profile_url}\n#     try:\n#         response = requests.get(api_endpoint, params=params, headers=headers)\n#         response.raise_for_status()",
+        "detail": "backend.utils",
+        "documentation": {}
+    },
+    {
+        "label": "collection",
+        "kind": 5,
+        "importPath": "backend.utils",
+        "description": "backend.utils",
+        "peekOfCode": "collection = db[\"linkedin-profile\"]\n# fs = gridfs.GridFS(db)\n# def fetch_and_save_profile_picture(profile_url):\n#     headers = {'Authorization': f'Bearer {proxycurl_api_key}'}\n#     api_endpoint = 'https://nubela.co/proxycurl/api/linkedin/person/profile-picture'\n#     params = {'linkedin_person_profile_url': profile_url}\n#     try:\n#         response = requests.get(api_endpoint, params=params, headers=headers)\n#         response.raise_for_status()\n#         profile_pic_url = response.json().get(\"tmp_profile_pic_url\")",
+        "detail": "backend.utils",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "def stringify(value):\n    return _stringify(value, separators=(',', ':'))\nassert stringify([None, None]) == '[[null,null]]'\na = []\no = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "a = []\no = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['o']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)\na.append('two')\na.append(True)\no['one'] = 1\no['two'] = 'two'",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "b = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)\na.append('two')\na.append(True)\no['one'] = 1\no['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['one']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['one'] = 1\no['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['two']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['three']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])\no['test'] = {'test': 'OK'}",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['a']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])\no['test'] = {'test': 'OK'}\no['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['test']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['test'] = {'test': 'OK'}\no['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['array']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "a2",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "a2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o2",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "str = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "oo",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "oo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    }
+]
